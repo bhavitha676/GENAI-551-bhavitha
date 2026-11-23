@@ -104,7 +104,3 @@ This project helps us learn how to use Gemini AI with Python. We can ask questio
 
 
 
-
-Create your first ChatGPT ad in minutes
-
-Add your website URL, review your suggested ad, and launch to eligible ChatGPT Go and Free users when you’re ready.
